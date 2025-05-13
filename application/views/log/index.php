@@ -21,8 +21,8 @@
 						<?php foreach ($log as $dl): ?>
 							<tr>
 								<td><?= $i++; ?></td>
-								<td><?= $dl['isi_log']; ?></td>
 								<td><?= $dl['tgl_log']; ?></td>
+								<td><?= $dl['isi_log']; ?></td>
 								<td><?= $dl['username']; ?></td>
 							</tr>
 						<?php endforeach ?>
