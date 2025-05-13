@@ -97,8 +97,8 @@
 		<div class="row py-4" id="daftar_laporan">
 			<div class="col-lg">
 				<h4>Daftar Laporan</h4>
-				<p class="text-justify">Berikut adalah daftar pengaduan-pengaduan masyarakat berdasarkan terbaru:</p>
-				<div class="table-responsive">
+				<p class="text-justify">Berikut adalah daftar pengaduan-pengaduan masyarakat berdasarkan waktu yang terbaru:</p>
+				<div class="table-responsive"> 
 					<table class="table table-bordered" id="table_id">
 						<thead class="thead-dark">
 							<tr>
